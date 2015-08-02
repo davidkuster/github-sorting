@@ -1,0 +1,5 @@
+# Build output directories
+/target
+
+# cobertura
+cobertura.ser
