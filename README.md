@@ -3,7 +3,7 @@
 GitHub Sorting
 ==============
 
-Experimentation with the GitHub API.
+Experimentation with the GitHub API. (Note that this may have been part of a job interview for a well known media streaming company...)
 
 
 Goal
